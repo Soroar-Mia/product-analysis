@@ -1,0 +1,42 @@
+.home-sectation{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.main-div{
+    padding-bottom: 10px;
+}
+
+.home-text-all{
+    margin: 30px;
+    padding: 80px;
+
+}
+.home-img-img{
+    width:100%;
+    height: 80%;
+    padding-top: 60px;
+
+}
+.bbb{
+    color: deeppink;
+}
+.aaa{
+    color: chartreuse;
+}
+.MacBook-Reviews{
+    color: crimson;
+}
+
+.home-cart{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width:600px) {
+    .home-sectation ,.home-cart{
+        grid-template-columns: 1fr;
+    }
+}

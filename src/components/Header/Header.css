@@ -1,0 +1,12 @@
+nav a{
+    text-decoration: none;
+    color: rgb(38, 201, 5);
+    margin-right: 30px;
+    font-size: 21px;
+    margin-top: 30px;
+    border-bottom: 2px solid ;
+    margin-bottom: 10px;
+}
+nav a:hover{
+    color: orange;
+}

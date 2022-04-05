@@ -1,0 +1,9 @@
+.cart img{
+    width: 300px;
+
+
+}
+.cart{
+    border: 2px solid salmon;
+    padding: 10px;
+}

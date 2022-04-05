@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "img": "https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-2018-review-5874-1920x1280.jpg ",
+      "name": "Abdullah Al Akash",
+      "review": "MacBook Air does all that and more, in a lighter and less costly package. Better performance. Two times the memory and 4",
+      "star": 5,
+      "date": "02-04-2022"
+  },
+  {
+      "id": 2,
+      "img": "https://o.aolcdn.com/images/dimse/5845cadfecd996e0372f/d0b8e37813de93ee5f79ee4d0ebd1acea9e71b8d/Y3JvcD0xNjAwJTJDMTA2OCUyQzAlMkMwJnF1YWxpdHk9ODUmZm9ybWF0PWpwZyZyZXNpemU9MTYwMCUyQzEwNjgmaW1hZ2VfdXJpPWh0dHBzJTNBJTJGJTJGcy55aW1nLmNvbSUyRm9zJTJGY3JlYXRyLXVwbG9hZGVkLWltYWdlcyUyRjIwMTgtMTElMkZhYzYzYTZiMC1lNDNkLTExZTgtYmZiZi1kN2E3MGE4NTU2MGQmY2xpZW50PWExYWNhYzNlMWIzMjkwOTE3ZDkyJnNpZ25hdHVyZT0yYjllY2ZjYmMyMzA3YmRkNDkyMjUwYjgwNDYxNDI1NWYwOGZjMmZi ",
+      "name": "MD Armaan",
+      "review": "In a week of testing, I have pushed this computer and its new Apple-made processor to its limits and found that those li",
+      "star": 4,
+      "date": "01-04-2022"
+  },
+  {
+      "id": 3,
+      "img": " https://www.techadvisor.com/cmsdata/features/3783362/how_to_extend_macbook_battery_life_main_thumb800.jpg",
+      "name": "Md Soroar mia",
+      "review": "Believe it. The MacBook Air with the M1 chip is the most impressive laptop I've used in years.",
+      "star": 5,
+      "date": "25-03-2022"
+  },
+  {
+      "id": 4,
+      "img": " https://cdn.wccftech.com/wp-content/uploads/2019/08/Mac-Book.jpg ",
+      "name": "MD Redowan",
+      "review": "The new M1 chip offers exceptional battery life, and in our early testing performance has been excellent. It's just a sh",
+      "star": 4,
+      "date": "21-03-2022"
+  },
+  {
+      "id": 5,
+      "img": "https://images.indianexpress.com/2021/03/APple-FB.jpg ",
+      "name": "Md Al-amin ",
+      "review": "The 14 and 16-inch MacBook Pro models feature an all-new design with more ports, no Touch Bar, MagSafe, M1 Pro and M1 Ma",
+      "star": 4,
+      "date": "15-03-2022"
+  },
+  {
+      "id": 6,
+      "img": "https://images.macrumors.com/t/4Es4IEOxCc_HMx8b6ZMPcgwyehc=/800x0/article-new/2021/02/microsoft-office-mac.jpg?lossy ",
+      "name": "Md Redoy rahaman",
+      "review": "I bought a gold 8GB/256/7 core GPU MacBook Air in early January 2021. The MacBook Air form factor is my favorite -- the ",
+      "star": 5,
+      "date": "02-04-2022"
+  }
+]

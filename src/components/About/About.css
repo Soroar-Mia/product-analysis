@@ -1,0 +1,34 @@
+.home-sectatio{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.main-di{
+    padding-bottom: 10px;
+}
+
+.home-text-al{
+    margin: 30px;
+    padding: 80px;
+    padding-left: 0;
+    margin-left: 0;
+
+}
+.home-img-im{
+    width:50%;
+    height: 80%;
+    padding-top: 60px;
+
+}
+.aa{
+    color: chartreuse;
+}
+.MacBook-Review{
+    color: crimson;
+}
+
+
+@media screen and (max-width:600px) {
+    .home-sectatio{
+        grid-template-columns: 1fr;
+    }
+}
