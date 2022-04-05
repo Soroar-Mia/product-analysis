@@ -5,7 +5,7 @@ const About = () => {
         <div className='main-di'>
         <section className='home-sectatio'>
             <div className='home-im'>
-                <img className='home-img-im' src="https://img.dtnext.in/Articles/2022/Jan/202201202234397451_Apple-may-replace-13inch-MacBook-Pro-with-14inch-M2_SECVPF.gif" alt="" />
+                <img className='home-img-im' src="https://d1i4t8bqe7zgj6.cloudfront.net/10-18-2021/t_67d11a2aeb804a5dbe4067792b84bc0b_name_apple_macbook.png" alt="" />
             </div>
             <div className='home-tex'>
                 <div className='home-text-al'>
